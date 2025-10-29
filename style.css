@@ -1,0 +1,22 @@
+body {
+	background-color: #189BCC;
+	color: white;
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+
+h1 {
+	color: black;
+	font-size: 48px;
+	letter-spacing: 2px;
+}
+
+p {
+	color: #ffff00;
+	font-size: 20px;
+}
+
+button {
+	background-color: #189BCC;
+	color: black;
+}
